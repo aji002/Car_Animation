@@ -96,7 +96,8 @@ export default function Hero() {
       
       <img
         ref={carRef}
-        src="/car.png"
+        // src="/car.png"
+        src="/Car_Animation/car.png"
         alt="car"
         className="absolute top-1/2 -translate-y-1/2 left-0 
                    w-[220px] sm:w-[300px] md:w-[360px] lg:w-[400px] 
