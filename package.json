@@ -2,6 +2,7 @@
   "name": "car-scroll-animation",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aji002.github.io/Car_Animation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
